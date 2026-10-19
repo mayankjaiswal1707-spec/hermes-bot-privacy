@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Hermes">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#28d17c"/><stop offset="1" stop-color="#0b6f47"/></linearGradient></defs>
+  <rect width="1024" height="1024" rx="220" fill="#0d1712"/>
+  <circle cx="512" cy="512" r="375" fill="url(#g)" opacity=".18"/>
+  <path d="M280 230h120v220h224V230h120v564H624V570H400v224H280z" fill="#f1fff8"/>
+  <path d="M400 450h224v120H400z" fill="#28d17c"/>
+</svg>
